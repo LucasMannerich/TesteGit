@@ -1,0 +1,5 @@
+public class ClasseC {
+	public staric void main(String[] args){
+
+	}
+}

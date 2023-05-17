@@ -1,2 +1,2 @@
-Public class ClasseB(){
+Public class ClasseB{
 }
